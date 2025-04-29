@@ -1,0 +1,7 @@
+{
+  "name": "roblox-avatar-api",
+  "version": "1.0.0",
+  "main": "api/avatar.js",
+  "scripts": {},
+  "dependencies": {}
+}
